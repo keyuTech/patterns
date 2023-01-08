@@ -8,3 +8,5 @@
 [Proxy Pattern/代理模式](./proxy-pattern/)
 
 [Provider Pattern/提供者模式](./provider-pattern/)
+
+[Prototype Pattern/原型模式](./prototype-pattern/)
