@@ -15,4 +15,6 @@
 
 [Container/Presentational Pattern / 容器/展示模式](./container-presentational-pattern/)
 
-[Observer Pattern](./observer-pattern/)
+[Observer Pattern/观察者模式](./observer-pattern/)
+
+[Module Pattern/模块模式](./module-pattern/)
