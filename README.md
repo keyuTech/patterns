@@ -20,3 +20,5 @@
 [Module Pattern/模块模式](./module-pattern/)
 
 [Mixin Pattern/混合模式](./mixin-pattern/)
+
+[Mediator/Middleware Pattern/中介者/中间件模式](./mediator-middleware-pattern/)
