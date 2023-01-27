@@ -3,7 +3,9 @@
 > 「前端设计模式」系列是对于 [patterns.dev](https://www.patterns.dev/) 一书的一系列学习笔记
 
 ## 是什么
-> 在没有继承的情况下向对象或类添加功能
+> Add functionality to objects or classes without inheritance
+
+👆在没有继承的情况下向对象或类添加功能
 
 mixin是一个对象，我们可以通过使用mixin在没有继承的情况下向对象或类中添加功能函数。我们不应该单独使用mixin，它只有上述的一个作用。
 
