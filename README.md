@@ -18,3 +18,5 @@
 [Observer Pattern/观察者模式](./observer-pattern/)
 
 [Module Pattern/模块模式](./module-pattern/)
+
+[Mixin Pattern/混合模式](./mixin-pattern/)
