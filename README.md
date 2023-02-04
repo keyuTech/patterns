@@ -22,3 +22,5 @@
 [Mixin Pattern/混合模式](./mixin-pattern/)
 
 [Mediator/Middleware Pattern/中介者/中间件模式](./mediator-middleware-pattern/)
+
+[HOC Pattern/高阶组件模式](./hoc-pattern/)
