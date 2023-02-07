@@ -24,3 +24,5 @@
 [Mediator/Middleware Pattern/中介者/中间件模式](./mediator-middleware-pattern/)
 
 [HOC Pattern/高阶组件模式](./hoc-pattern/)
+
+[Render Props Pattern/Render Props模式](./render-props-pattern/)
